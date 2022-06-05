@@ -1,0 +1,3 @@
+<!ELEMENT ListaVentas (ListaVenta+)>
+        <!ELEMENT ListaVenta (Comprador)>
+
