@@ -3,5 +3,11 @@
 <!DOCTYPE ListaVentas SYSTEM "ListaVentas.dtd">
 
 <ListaVentas>
-
+    <Venta>
+        <Importe>5000</Importe>
+        <Comprador>Andres</Comprador>
+        <Vendedor>Mary</Vendedor>
+        <Fecha>5/06/22</Fecha>
+        <CodigoFactura>F01</CodigoFactura>
+    </Venta>
 </ListaVentas>
